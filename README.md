@@ -1,2 +1,2 @@
 # APCS-Labs
-AP Computer Science Assignments
+AP Computer Science Labs
